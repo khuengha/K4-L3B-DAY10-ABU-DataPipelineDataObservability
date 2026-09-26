@@ -1,0 +1,38 @@
+{
+  "report_name": "test",
+  "total_rows": 24,
+  "gx_success": true,
+  "success": true,
+  "checks": [
+    {
+      "expectation": "unknown",
+      "success": true,
+      "unexpected_count": null,
+      "observed_value": 24
+    },
+    {
+      "expectation": "unknown",
+      "success": true,
+      "unexpected_count": 0,
+      "observed_value": null
+    },
+    {
+      "expectation": "unknown",
+      "success": true,
+      "unexpected_count": 0,
+      "observed_value": null
+    },
+    {
+      "expectation": "unknown",
+      "success": true,
+      "unexpected_count": 0,
+      "observed_value": null
+    },
+    {
+      "expectation": "unknown",
+      "success": true,
+      "unexpected_count": 0,
+      "observed_value": null
+    }
+  ]
+}

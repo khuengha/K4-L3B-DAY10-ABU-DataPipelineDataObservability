@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who authored 'Agentic Retrieval-Augmented Generation for Knowledge-Intensive Tasks'?",
+    "answer": "Minh Nguyen, Hoang Le",
+    "retrieved_doc_ids": [
+      "10.1145/3637528.3671801",
+      "10.1145/3637528.3671813",
+      "10.1145/3637528.3671808",
+      "10.1145/3637528.3671820"
+    ]
+  },
+  {
+    "question": "What is the first sentence of the summary of 'Evaluating Retrieval Precision with Token F1 and LLM Judges'?",
+    "answer": "Evaluating open-domain QA requires robust metrics.",
+    "retrieved_doc_ids": [
+      "10.1145/3637528.3671805",
+      "10.1145/3637528.3671817",
+      "10.1145/3637528.3671824",
+      "10.1145/3637528.3671812"
+    ]
+  }
+]

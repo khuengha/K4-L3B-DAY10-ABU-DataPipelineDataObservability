@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q01",
+    "question_type": "summary",
+    "question": "What is the first sentence of the summary of 'Evaluating Retrieval Precision with Token F1 and LLM Judges'?",
+    "ground_truth": "Evaluating open-domain QA requires robust metrics.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671805"
+    ]
+  },
+  {
+    "id": "q02",
+    "question_type": "authors",
+    "question": "Who authored 'Chunking Strategies for Technical Documentation Retrieval'?",
+    "ground_truth": "Long Trinh, Ha Chu",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671809"
+    ]
+  },
+  {
+    "id": "q03",
+    "question_type": "date",
+    "question": "When was 'Agentic Retrieval-Augmented Generation for Knowledge-Intensive Tasks' published?",
+    "ground_truth": "2026-05-20",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671801"
+    ]
+  },
+  {
+    "id": "q04",
+    "question_type": "categories",
+    "question": "What categories are assigned to 'Advanced Perspectives on Data Observability and Quality Gates for Production RAG Systems'?",
+    "ground_truth": "Software Engineering, Data Systems",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671814"
+    ]
+  },
+  {
+    "id": "q05",
+    "question_type": "summary",
+    "question": "What is the first sentence of the summary of 'Advanced Perspectives on Evaluating Retrieval Precision with Token F1 and LLM Judges'?",
+    "ground_truth": "An extended empirical study on valuating open-domain QA requires robust metrics.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671817"
+    ]
+  },
+  {
+    "id": "q06",
+    "question_type": "authors",
+    "question": "Who authored 'Advanced Perspectives on Synthetic Corruption Testing: Stress-Testing Vector Search Robustness'?",
+    "ground_truth": "Kien Duong, Vy Ly",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671819"
+    ]
+  },
+  {
+    "id": "q07",
+    "question_type": "date",
+    "question": "When was 'Advanced Perspectives on Chunking Strategies for Technical Documentation Retrieval' published?",
+    "ground_truth": "2026-06-09",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671821"
+    ]
+  },
+  {
+    "id": "q08",
+    "question_type": "categories",
+    "question": "What categories are assigned to 'Advanced Perspectives on Hybrid Search Architectures: Combining BM25 with Dense Representations'?",
+    "ground_truth": "Information Retrieval, Algorithms",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671823"
+    ]
+  },
+  {
+    "id": "q09",
+    "question_type": "summary",
+    "question": "What is the first sentence of the summary of 'Synthetic Corruption Testing: Stress-Testing Vector Search Robustness'?",
+    "ground_truth": "We introduce an automated fuzzing suite that corrupts text chunks by injecting noise, truncating titles, and blanking summaries.",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671807"
+    ]
+  },
+  {
+    "id": "q10",
+    "question_type": "authors",
+    "question": "Who authored 'Continuous Benchmark Evaluation for Enterprise Retrieval Pipelines'?",
+    "ground_truth": "Quang Le, Yen Vu",
+    "ground_truth_doc_ids": [
+      "10.1145/3637528.3671812"
+    ]
+  }
+]
