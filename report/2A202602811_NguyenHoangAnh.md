@@ -10,7 +10,7 @@
 | MSSV               | [2A202602811]                     |
 | Khóa/Lớp         | [K4]              |
 | Tên nhóm         | [ABU]     |
-| Vai trò chính    | [Corruption & Recovery]                 |
+| Vai trò chính    | [Corruption & Recovery — 6 kịch bản làm bẩn dữ liệu, Idempotent Repair CP4 CP5]                 |
 | Repository         | [https://github.com/khuengha/K4-L3B-DAY10-ABU-DataPipelineDataObservability/tree/hoanganh] |
 | Ngày hoàn thành | [2026-09-26]               |
 
