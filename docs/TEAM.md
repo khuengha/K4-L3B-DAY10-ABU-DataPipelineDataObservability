@@ -1,6 +1,6 @@
 # Danh Sách Thành Viên & Báo Cáo Phân Công Nhóm
 
-- **Tên Nhóm:** `[Điền tên nhóm]`
+- **Tên Nhóm:** `ABU`
 - **Mã Nhóm / Lớp:** `K4-L3-DAY10`
 - **Tên Repository Nộp Bài:** `K4-L3-DAY10-TenNhom-DataPipeline`
 
@@ -10,10 +10,10 @@
 
 | STT | Họ và tên | MSSV | Email | Vai trò & Phân công công việc | Báo cáo cá nhân |
 |---:|---|---|---|---|---|
-| 1 | | | | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | `report/<MSSV1>_HoTen.md` |
-| 2 | | | | Data Foundation & Recovery (`crossref.py`, `cleaning.py`, raw data) | `report/<MSSV2>_HoTen.md` |
-| 3 | | | | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/<MSSV3>_HoTen.md` |
-| 4 | | | | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, reporting) | `report/<MSSV4>_HoTen.md` |
+| 1 |Nguyễn Hà Khuê | 2A202602938| | Trưởng nhóm / Pipeline Integrator / Data Foundation & Recovery (`core/`, `phase1.py`, `corruption_flow.py`)  (`crossref.py`, `cleaning.py`, raw data)| `report/<MSSV1>_HoTen.md` |
+| 2 |Nguyễn Hoàng Anh |2A202602811 | | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/<MSSV2>_HoTen.md` |
+| 3 |Nguyễn Huy Hoàng |2A202602738 | | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, reporting) | `report/<MSSV3>_HoTen.md` |
+
 
 *(Nếu nhóm có 3 hoặc 5-6 thành viên, xem bảng phân công chi tiết theo vai trò trong file `CHECKPOINTS.md`)*.
 
@@ -21,7 +21,7 @@
 
 ## # Cá nhân
 
-### ## HoVaTen1-MSSV1
+### ## Nguyễn Hà Khuê - 2A202602938
 - **Vai trò:** Trưởng nhóm & Điều phối Pipeline.
 - **Công việc chi tiết đã hoàn thành:**
   - Thiết lập cấu hình hệ thống `core/config.py` và đường dẫn artifacts `core/utils.py`.
@@ -30,7 +30,7 @@
 - **Điều học được / Đóng góp chính:**
   - Hiểu sâu sắc về thiết kế Idempotent Pipeline và quản lý trạng thái luồng dữ liệu đa tầng.
 
-### ## HoVaTen2-MSSV2
+### ## Nguyễn Hoàng Anh - 2A202602811
 - **Vai trò:** Phụ trách Ingestion, Làm sạch & Phục hồi dữ liệu.
 - **Công việc chi tiết đã hoàn thành:**
   - Xây dựng module thu thập Crossref API với cơ chế Fallback offline trong `src/ingestion/crossref.py`.
@@ -39,7 +39,7 @@
 - **Điều học được / Đóng góp chính:**
   - Kỹ thuật truy vết nguồn gốc dữ liệu (Data Lineage) và bảo toàn raw snapshot trước khi biến đổi.
 
-### ## HoVaTen3-MSSV3
+### ## Nguyễn Huy Hoàng - 2A202602738
 - **Vai trò:** Phụ trách RAG, Vector Database & Embedding.
 - **Công việc chi tiết đã hoàn thành:**
   - Quản lý mô hình embedding `sentence-transformers/all-MiniLM-L6-v2`.
